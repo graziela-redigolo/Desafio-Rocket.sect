@@ -15,7 +15,7 @@ Projeto construido do curso Explorer da Rocketseat, desafio intermediário onde 
 
 Clique no link abaixo para acessar.
 
-https://graziela-redigolo.github.io/desafio-rocket.sect
+https://graziela-redigolo.github.io/Desafio-Rocket.sect
 
 ## Contatos
 
